@@ -31,7 +31,7 @@ git clone https://github.com/Bebrowskiy/todo-console.git
 Go to the root directory of the project and install the project in developer mode.
 
 ```sh
-cd
+cd todo-console/
 ```
 
 ```sh
