@@ -1,4 +1,4 @@
-<p alignp"center">Console version of Todo</p>
+<p align="center">Console version of Todo</p>
 <p align="center"><img alt="image" src="pictures/image.png" /></p>
 
 # Todo App
